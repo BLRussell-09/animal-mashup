@@ -1,0 +1,29 @@
+{
+  "mashups": {
+    "mashup1": {
+      "name": "horsrog",
+      "imgUrl": "https://www.pleated-jeans.com/wp-content/uploads/2013/10/Animal-Mashups19-1.jpg",
+      "description": "Makes a good pet. May hop away."
+    },
+    "mashup2": {
+      "name": "sparrrel",
+      "imgUrl": "https://www.pleated-jeans.com/wp-content/uploads/2013/10/Animal-Mashups15-1.jpg",
+      "description": "You should hear this one sing."
+    },
+    "mashup3": {
+      "name": "b-eagal",
+      "imgUrl": "https://www.symbiancreate.co.uk/wp-content/uploads/2017/03/bald-beagle.jpg",
+      "description": "The b-eagle is a breed of small hound that is similar in appearance to the much larger foxhound, crossed with the spirit of America."
+    },
+    "mashup4": {
+      "name": "dird",
+      "imgUrl": "https://pbs.twimg.com/media/BWaop-FIgAAaIwH.jpg",
+      "description": "It has a mighty bite."
+    },
+    "mashup5": {
+      "name": "puffaroo",
+      "imgUrl": "https://i.pinimg.com/originals/eb/1b/f2/eb1bf20520c377434c32586c1da4d566.jpg",
+      "description": "Great for birthday parties."
+    }
+  }
+}
